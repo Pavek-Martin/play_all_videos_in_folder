@@ -1,0 +1,3 @@
+vsechny tyto soubory nahrat a nebo nahradit na gitu 
+
+a smazat na gitu *.ps1 kcemu nebude tady *.exe
